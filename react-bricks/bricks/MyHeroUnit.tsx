@@ -1,9 +1,9 @@
-import React, { Children } from 'react'
+import React from 'react'
 import { Text, RichText, Image, types } from 'react-bricks/frontend'
 
-//=============================
+
 // Local Types
-//=============================
+
 type Padding = 'big' | 'small'
 
 interface HeroUnitProps {
@@ -12,9 +12,9 @@ interface HeroUnitProps {
   text: string
 }
 
-//=============================
+
 // Component to be rendered
-//=============================
+
 const MyHeroUnit: types.Brick<HeroUnitProps> = ({ padding }) => {
   return (
     <div className={`max-w-xl mx-auto px-6 ${padding === 'big' ? 'py-20' : 'py-12'}`}>
