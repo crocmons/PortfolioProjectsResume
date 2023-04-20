@@ -13,7 +13,7 @@ interface HeroUnitProps {
 }
 
 
-// Component to be rendered
+// Component to be rendered for Hero unit image added in MERN AI
 
 const MyHeroUnit: types.Brick<HeroUnitProps> = ({ padding }) => {
   return (
