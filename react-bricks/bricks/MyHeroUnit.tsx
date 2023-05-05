@@ -62,8 +62,12 @@ const MyHeroUnit: types.Brick<HeroUnitProps> = ({ padding }) => {
 }
 
 //=============================
+//=============================
 // Brick Schema
 //=============================
+//=============================
+// Hero Section added new project:
+
 MyHeroUnit.schema = {
   name: 'my-hero-unit',
   label: 'Custom Hero Unit',
