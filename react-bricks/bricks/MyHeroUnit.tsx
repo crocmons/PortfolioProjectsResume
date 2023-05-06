@@ -68,6 +68,7 @@ const MyHeroUnit: types.Brick<HeroUnitProps> = ({ padding }) => {
 //=============================
 // Hero Section added new project:
 // Summarizer AI
+// QrCode Generator App
 
 MyHeroUnit.schema = {
   name: 'my-hero-unit',
