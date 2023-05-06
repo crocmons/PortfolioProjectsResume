@@ -67,6 +67,7 @@ const MyHeroUnit: types.Brick<HeroUnitProps> = ({ padding }) => {
 //=============================
 //=============================
 // Hero Section added new project:
+// Summarizer AI
 
 MyHeroUnit.schema = {
   name: 'my-hero-unit',
