@@ -69,6 +69,8 @@ const MyHeroUnit: types.Brick<HeroUnitProps> = ({ padding }) => {
 // Hero Section added new project:
 // Summarizer AI
 // QrCode Generator App
+// Discover & Share AI Powered Prompts
+// https://github.com/crocmons/PromptWorld
 
 MyHeroUnit.schema = {
   name: 'my-hero-unit',
