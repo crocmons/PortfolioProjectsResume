@@ -19,6 +19,9 @@ interface HomeProps {
   error: string
 }
 
+
+// Added new project crime -pdf ---
+
 const Home: React.FC<HomeProps> = ({ page, error }) => {
   // Clean the received content
   // Removes unknown or not allowed bricks
