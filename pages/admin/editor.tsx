@@ -8,6 +8,8 @@ const AdminEditor: React.FC = () => {
       <Head>
         <title>Editor</title>
       </Head>
+      // new project added
+      // Fixed typos
       <Editor />
     </Admin>
   )
