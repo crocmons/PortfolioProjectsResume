@@ -25,7 +25,7 @@ const config: types.ReactBricksConfig = {
   appRootElement: '#__next',
   clickToEditSide: types.ClickToEditSide.BottomRight,
   customFields: [],
-  //responsiveBreakpoints: [{ type: types.DeviceType.Phone, width: 480, label: 'Smartphone'}],
+  // responsiveBreakpoints: [{ type: types.DeviceType.Phone, width: 480, label: 'Smartphone'}],
   enableAutoSave: true,
   disableSaveIfInvalidProps: false,
   enablePreview: true,
