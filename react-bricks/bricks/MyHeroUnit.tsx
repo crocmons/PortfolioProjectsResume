@@ -71,6 +71,7 @@ const MyHeroUnit: types.Brick<HeroUnitProps> = ({ padding }) => {
 // QrCode Generator App
 // Data Analysiis toolbot and other projects
 // Discover & Share AI Powered Prompts
+// updated images
 // https://github.com/crocmons/PromptWorld
 
 MyHeroUnit.schema = {
