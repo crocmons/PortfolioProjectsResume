@@ -72,6 +72,8 @@ const MyHeroUnit: types.Brick<HeroUnitProps> = ({ padding }) => {
 // Data Analysiis toolbot and other projects
 // Discover & Share AI Powered Prompts
 // updated images
+// added new changes
+// added cognito-ai
 // https://github.com/crocmons/PromptWorld
 
 MyHeroUnit.schema = {
