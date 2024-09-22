@@ -76,6 +76,9 @@ const MyHeroUnit: types.Brick<HeroUnitProps> = ({ padding }) => {
 // added cognito-ai
 // https://github.com/crocmons/PromptWorld
 // fixed image UI for every devices
+// added new projects
+// Headstarter projects
+// npm 
 
 MyHeroUnit.schema = {
   name: 'my-hero-unit',
