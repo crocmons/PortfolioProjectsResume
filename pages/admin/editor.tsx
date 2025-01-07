@@ -10,6 +10,7 @@ const AdminEditor: React.FC = () => {
       </Head>
       // new project added
       // Fixed typos
+      {/* fixed new project image */}
       <Editor />
     </Admin>
   )
